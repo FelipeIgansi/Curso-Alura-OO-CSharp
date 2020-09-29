@@ -1,0 +1,39 @@
+D:/Code/Aulas Alura/Csharp/Curso-OO/csharp-parte-2-introducao-orientacao-objetos/04-ByteBank/bin/Debug/netcoreapp3.1/04-ByteBank.exe
+D:/Code/Aulas Alura/Csharp/Curso-OO/csharp-parte-2-introducao-orientacao-objetos/04-ByteBank/bin/Debug/netcoreapp3.1/04-ByteBank.deps.json
+D:/Code/Aulas Alura/Csharp/Curso-OO/csharp-parte-2-introducao-orientacao-objetos/04-ByteBank/bin/Debug/netcoreapp3.1/04-ByteBank.runtimeconfig.json
+D:/Code/Aulas Alura/Csharp/Curso-OO/csharp-parte-2-introducao-orientacao-objetos/04-ByteBank/bin/Debug/netcoreapp3.1/04-ByteBank.runtimeconfig.dev.json
+D:/Code/Aulas Alura/Csharp/Curso-OO/csharp-parte-2-introducao-orientacao-objetos/04-ByteBank/bin/Debug/netcoreapp3.1/04-ByteBank.dll
+D:/Code/Aulas Alura/Csharp/Curso-OO/csharp-parte-2-introducao-orientacao-objetos/04-ByteBank/bin/Debug/netcoreapp3.1/04-ByteBank.pdb
+D:/Code/Aulas Alura/Csharp/Curso-OO/csharp-parte-2-introducao-orientacao-objetos/04-ByteBank/obj/Debug/netcoreapp3.1/04-ByteBank.AssemblyInfoInputs.cache
+D:/Code/Aulas Alura/Csharp/Curso-OO/csharp-parte-2-introducao-orientacao-objetos/04-ByteBank/obj/Debug/netcoreapp3.1/04-ByteBank.AssemblyInfo.cs
+D:/Code/Aulas Alura/Csharp/Curso-OO/csharp-parte-2-introducao-orientacao-objetos/04-ByteBank/obj/Debug/netcoreapp3.1/04-ByteBank.csproj.CoreCompileInputs.cache
+D:/Code/Aulas Alura/Csharp/Curso-OO/csharp-parte-2-introducao-orientacao-objetos/04-ByteBank/obj/Debug/netcoreapp3.1/04-ByteBank.dll
+D:/Code/Aulas Alura/Csharp/Curso-OO/csharp-parte-2-introducao-orientacao-objetos/04-ByteBank/obj/Debug/netcoreapp3.1/04-ByteBank.pdb
+D:/Code/Aulas Alura/Csharp/Curso-OO/csharp-parte-2-introducao-orientacao-objetos/04-ByteBank/obj/Debug/netcoreapp3.1/04-ByteBank.genruntimeconfig.cache
+D:/Code/Aulas Alura/Csharp/Curso-OO/csharp-parte-2-introducao-orientacao-objetos/04-ByteBank/obj/Debug/netcoreapp3.1/04-ByteBank.csprojAssemblyReference.cache
+/media/felipe/HD500/Code/Code/Aulas Alura/Csharp/Curso-OO/csharp-parte-2-introducao-orientacao-objetos/04-ByteBank/bin/Debug/netcoreapp3.1/04-ByteBank
+/media/felipe/HD500/Code/Code/Aulas Alura/Csharp/Curso-OO/csharp-parte-2-introducao-orientacao-objetos/04-ByteBank/bin/Debug/netcoreapp3.1/04-ByteBank.deps.json
+/media/felipe/HD500/Code/Code/Aulas Alura/Csharp/Curso-OO/csharp-parte-2-introducao-orientacao-objetos/04-ByteBank/bin/Debug/netcoreapp3.1/04-ByteBank.runtimeconfig.json
+/media/felipe/HD500/Code/Code/Aulas Alura/Csharp/Curso-OO/csharp-parte-2-introducao-orientacao-objetos/04-ByteBank/bin/Debug/netcoreapp3.1/04-ByteBank.runtimeconfig.dev.json
+/media/felipe/HD500/Code/Code/Aulas Alura/Csharp/Curso-OO/csharp-parte-2-introducao-orientacao-objetos/04-ByteBank/bin/Debug/netcoreapp3.1/04-ByteBank.dll
+/media/felipe/HD500/Code/Code/Aulas Alura/Csharp/Curso-OO/csharp-parte-2-introducao-orientacao-objetos/04-ByteBank/bin/Debug/netcoreapp3.1/04-ByteBank.pdb
+/media/felipe/HD500/Code/Code/Aulas Alura/Csharp/Curso-OO/csharp-parte-2-introducao-orientacao-objetos/04-ByteBank/obj/Debug/netcoreapp3.1/04-ByteBank.csprojAssemblyReference.cache
+/media/felipe/HD500/Code/Code/Aulas Alura/Csharp/Curso-OO/csharp-parte-2-introducao-orientacao-objetos/04-ByteBank/obj/Debug/netcoreapp3.1/04-ByteBank.AssemblyInfoInputs.cache
+/media/felipe/HD500/Code/Code/Aulas Alura/Csharp/Curso-OO/csharp-parte-2-introducao-orientacao-objetos/04-ByteBank/obj/Debug/netcoreapp3.1/04-ByteBank.AssemblyInfo.cs
+/media/felipe/HD500/Code/Code/Aulas Alura/Csharp/Curso-OO/csharp-parte-2-introducao-orientacao-objetos/04-ByteBank/obj/Debug/netcoreapp3.1/04-ByteBank.csproj.CoreCompileInputs.cache
+/media/felipe/HD500/Code/Code/Aulas Alura/Csharp/Curso-OO/csharp-parte-2-introducao-orientacao-objetos/04-ByteBank/obj/Debug/netcoreapp3.1/04-ByteBank.dll
+/media/felipe/HD500/Code/Code/Aulas Alura/Csharp/Curso-OO/csharp-parte-2-introducao-orientacao-objetos/04-ByteBank/obj/Debug/netcoreapp3.1/04-ByteBank.pdb
+/media/felipe/HD500/Code/Code/Aulas Alura/Csharp/Curso-OO/csharp-parte-2-introducao-orientacao-objetos/04-ByteBank/obj/Debug/netcoreapp3.1/04-ByteBank.genruntimeconfig.cache
+/home/felipe/Documentos/Code/C#/csharp-parte-2-introducao-orientacao-objetos/04-ByteBank/bin/Debug/netcoreapp3.1/04-ByteBank
+/home/felipe/Documentos/Code/C#/csharp-parte-2-introducao-orientacao-objetos/04-ByteBank/bin/Debug/netcoreapp3.1/04-ByteBank.deps.json
+/home/felipe/Documentos/Code/C#/csharp-parte-2-introducao-orientacao-objetos/04-ByteBank/bin/Debug/netcoreapp3.1/04-ByteBank.runtimeconfig.json
+/home/felipe/Documentos/Code/C#/csharp-parte-2-introducao-orientacao-objetos/04-ByteBank/bin/Debug/netcoreapp3.1/04-ByteBank.runtimeconfig.dev.json
+/home/felipe/Documentos/Code/C#/csharp-parte-2-introducao-orientacao-objetos/04-ByteBank/bin/Debug/netcoreapp3.1/04-ByteBank.dll
+/home/felipe/Documentos/Code/C#/csharp-parte-2-introducao-orientacao-objetos/04-ByteBank/bin/Debug/netcoreapp3.1/04-ByteBank.pdb
+/home/felipe/Documentos/Code/C#/csharp-parte-2-introducao-orientacao-objetos/04-ByteBank/obj/Debug/netcoreapp3.1/04-ByteBank.csprojAssemblyReference.cache
+/home/felipe/Documentos/Code/C#/csharp-parte-2-introducao-orientacao-objetos/04-ByteBank/obj/Debug/netcoreapp3.1/04-ByteBank.AssemblyInfoInputs.cache
+/home/felipe/Documentos/Code/C#/csharp-parte-2-introducao-orientacao-objetos/04-ByteBank/obj/Debug/netcoreapp3.1/04-ByteBank.AssemblyInfo.cs
+/home/felipe/Documentos/Code/C#/csharp-parte-2-introducao-orientacao-objetos/04-ByteBank/obj/Debug/netcoreapp3.1/04-ByteBank.csproj.CoreCompileInputs.cache
+/home/felipe/Documentos/Code/C#/csharp-parte-2-introducao-orientacao-objetos/04-ByteBank/obj/Debug/netcoreapp3.1/04-ByteBank.dll
+/home/felipe/Documentos/Code/C#/csharp-parte-2-introducao-orientacao-objetos/04-ByteBank/obj/Debug/netcoreapp3.1/04-ByteBank.pdb
+/home/felipe/Documentos/Code/C#/csharp-parte-2-introducao-orientacao-objetos/04-ByteBank/obj/Debug/netcoreapp3.1/04-ByteBank.genruntimeconfig.cache
