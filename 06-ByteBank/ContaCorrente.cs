@@ -5,8 +5,10 @@
     {
         public Cliente Titular{get; set; }
 
-        public int _agencia;
-        public int _numero;
+        public int Agencia { get; set; }
+
+        public int Numero { get; set; }
+
         private double _saldo = 100;
 
         public double Saldo

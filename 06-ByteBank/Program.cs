@@ -11,13 +11,13 @@ namespace _06_ByteBank
             conta.Saldo = 50;
 
             Cliente cliente = new Cliente();
-            cliente.nome = "Felipe";
-            cliente.cpf = "132.232.252-33";
-            cliente.profissao = "Tester";
+            cliente.Nome = "Felipe";
+            cliente.CPF = "132.232.252-33";
+            cliente.Profissao = "Tester";
 
             conta.Titular = cliente;
 
-            Console.WriteLine(conta.Titular.nome);
+            Console.WriteLine(conta.Titular.Nome);
 
             Console.WriteLine(conta.Saldo);
         }
