@@ -1,0 +1,13 @@
+/home/felipe/Documentos/Code/C#/csharp-parte-2-introducao-orientacao-objetos/06-ByteBank/bin/Debug/netcoreapp3.1/06-ByteBank
+/home/felipe/Documentos/Code/C#/csharp-parte-2-introducao-orientacao-objetos/06-ByteBank/bin/Debug/netcoreapp3.1/06-ByteBank.deps.json
+/home/felipe/Documentos/Code/C#/csharp-parte-2-introducao-orientacao-objetos/06-ByteBank/bin/Debug/netcoreapp3.1/06-ByteBank.runtimeconfig.json
+/home/felipe/Documentos/Code/C#/csharp-parte-2-introducao-orientacao-objetos/06-ByteBank/bin/Debug/netcoreapp3.1/06-ByteBank.runtimeconfig.dev.json
+/home/felipe/Documentos/Code/C#/csharp-parte-2-introducao-orientacao-objetos/06-ByteBank/bin/Debug/netcoreapp3.1/06-ByteBank.dll
+/home/felipe/Documentos/Code/C#/csharp-parte-2-introducao-orientacao-objetos/06-ByteBank/bin/Debug/netcoreapp3.1/06-ByteBank.pdb
+/home/felipe/Documentos/Code/C#/csharp-parte-2-introducao-orientacao-objetos/06-ByteBank/obj/Debug/netcoreapp3.1/06-ByteBank.csprojAssemblyReference.cache
+/home/felipe/Documentos/Code/C#/csharp-parte-2-introducao-orientacao-objetos/06-ByteBank/obj/Debug/netcoreapp3.1/06-ByteBank.AssemblyInfoInputs.cache
+/home/felipe/Documentos/Code/C#/csharp-parte-2-introducao-orientacao-objetos/06-ByteBank/obj/Debug/netcoreapp3.1/06-ByteBank.AssemblyInfo.cs
+/home/felipe/Documentos/Code/C#/csharp-parte-2-introducao-orientacao-objetos/06-ByteBank/obj/Debug/netcoreapp3.1/06-ByteBank.csproj.CoreCompileInputs.cache
+/home/felipe/Documentos/Code/C#/csharp-parte-2-introducao-orientacao-objetos/06-ByteBank/obj/Debug/netcoreapp3.1/06-ByteBank.dll
+/home/felipe/Documentos/Code/C#/csharp-parte-2-introducao-orientacao-objetos/06-ByteBank/obj/Debug/netcoreapp3.1/06-ByteBank.pdb
+/home/felipe/Documentos/Code/C#/csharp-parte-2-introducao-orientacao-objetos/06-ByteBank/obj/Debug/netcoreapp3.1/06-ByteBank.genruntimeconfig.cache

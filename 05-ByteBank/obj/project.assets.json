@@ -8,7 +8,7 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "/root/.nuget/packages/": {}
+    "/home/felipe/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
@@ -16,11 +16,11 @@
       "projectUniqueName": "/home/felipe/Documentos/Code/C#/csharp-parte-2-introducao-orientacao-objetos/05-ByteBank/05-ByteBank.csproj",
       "projectName": "05-ByteBank",
       "projectPath": "/home/felipe/Documentos/Code/C#/csharp-parte-2-introducao-orientacao-objetos/05-ByteBank/05-ByteBank.csproj",
-      "packagesPath": "/root/.nuget/packages/",
+      "packagesPath": "/home/felipe/.nuget/packages/",
       "outputPath": "/home/felipe/Documentos/Code/C#/csharp-parte-2-introducao-orientacao-objetos/05-ByteBank/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/root/.nuget/NuGet/NuGet.Config"
+        "/home/felipe/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
